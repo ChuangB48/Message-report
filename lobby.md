@@ -1,5 +1,5 @@
 # 即時通訊網站
-* [規則](rule.md)
+* [目標](score.md)
 * [時間線](time.md)
 * [架構圖](organize.md)
 * [使用的資源](resource.md)
