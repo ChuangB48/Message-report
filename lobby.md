@@ -1,7 +1,11 @@
 # 即時通訊網站
 * [規則](rule.md)
 * [時間線](time.md)
-* [架構圖]()
+* [架構圖](organize.md)
+* [使用的資源](resource.md)
+* [已完成功能](complete.md)
+* [未完成功能](fail.md)
+* [過程中遇到的困難](difficult.md)
 * [登入畫面HTML程式碼](loginHTML.md)
 * [登入畫面JavaScript程式碼](loginJS.md)
 * [登入畫面CSS程式碼](loginCSS.md)
