@@ -1,9 +1,9 @@
 # 使用的資源
 ## 語言
-* 使用者介面:HTML
-* 美化:CSS
-* 前端程式:JavaScript
-* 後端:JavaScript(node.js)
+* 使用者介面: HTML
+* 美化: CSS
+* 前端程式: JavaScript
+* 後端: JavaScript(node.js)
 ## 查資料
 * [W3Schools](https://www.w3schools.com/)
 * [Microsoft Learn](https://learn.microsoft.com/zh-tw/)
